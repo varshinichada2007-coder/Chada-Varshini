@@ -6,6 +6,8 @@
 - **Registration Number:** 252U1R1050
 - **Section:** CSE - CORE (223 & S15)
 - **Course:** Backend Development Fundamentals
+- **Live Deployment URL:** https://chada-varshini-1.onrender.com/
+
 
 ---
 
